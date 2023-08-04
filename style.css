@@ -1,7 +1,20 @@
-header{
-    height: 15vh;
-    background-color: #a8c5d3;
+header {
+  height: 15vh;
+  background-color: #a8c5d3;
 }
-.logo{
-    background-image: ;
+
+
+.panel {
+  min-height: 100vh;
+  overflow-x: hidden;
+  margin: 0px;
+  border: 0px;
+  box-sizing: border-box;
+  background-color: #e9ebee;
+  top: 0;
+  left: 0;
+}
+
+.content {
+  margin-top: 18px;
 }
